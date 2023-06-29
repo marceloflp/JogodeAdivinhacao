@@ -30,7 +30,7 @@ Este é um jogo simples em Python que desafia você a adivinhar uma palavra alea
 
 1. Clone este repositório.
 2. Abra um terminal ou prompt de comando e navegue até o diretório do projeto.
-3. Execute o comando `python nome_do_arquivo.py` para iniciar o jogo.
+3. Execute o comando `python3 main.py` para iniciar o jogo.
 4. Siga as instruções exibidas no terminal para jogar.
 
 Divirta-se e boa sorte!
